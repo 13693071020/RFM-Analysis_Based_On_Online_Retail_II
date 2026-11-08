@@ -76,7 +76,7 @@ For all wholesalers tagged as Stable, their average replenishment cycle is calcu
 ### Result
 The final RFM segmentation result is generated. The number of wholesalers in eight categories is shown in the figure below:
 <p align="center">
-<img src="./images/bar_rfm_segments.png" width="900">
+<img src="./images/bar_RFM_segments.png" width="900">
 </p>
 
 ## Strategies for Wholesalers
